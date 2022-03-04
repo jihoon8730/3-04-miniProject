@@ -1,0 +1,41 @@
+/* 여기부터 내가 짠 css */
+
+/* google font */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.nav-center {
+  text-align: center;
+}
+
+.head-title {
+  font-size: 150px;
+  text-align: center;
+  margin: 50px;
+  .head-blog {
+    font-size: 30px;
+  }
+}
+
+.btn-font {
+  font-size: 20px;
+}
+
+.card-mg {
+  width: 100%;
+  margin: 30px 0px 30px 0px;
+}
+
+.modal-title {
+  font-size: 20px;
+  #basic-url {
+    margin-top: 10px;
+  }
+}
